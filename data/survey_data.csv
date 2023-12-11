@@ -1,0 +1,353 @@
+age,gender,country,state,is_self_employed,is_family_history_of_mental_illness,is_treatment_sought,interference_with_work,number_of_employees_in_organization,is_employer_tech_company,mental_health_benefits,mental_healthcare_options,mental_health_employee_wellness_program,mental_health_employee_resources,employee_anonymity_protected,mental_health_leave,willingness_to_discuss_with_coworkers,willingness_to_discuss_with_supervisors
+25,Male,United States of America,Nebraska,false,false,false,Not applicable to me,26-100,true,I don't know,No,Yes,Yes,I don't know,Very easy,Physical health,Yes
+51,Male,United States of America,Nebraska,false,true,false,Sometimes,26-100,true,Yes,No,No,Yes,Yes,I don't know,Physical health,Maybe
+27,Male,United States of America,Illinois,false,,false,Not applicable to me,26-100,true,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Same level of comfort for each,No
+37,Male,United States of America,Nebraska,false,true,false,Not applicable to me,100-500,true,I don't know,No,Yes,Yes,Yes,Very easy,Physical health,Yes
+46,Male,United States of America,Nebraska,false,false,false,Not applicable to me,26-100,true,I don't know,No,I don't know,I don't know,I don't know,I don't know,Physical health,No
+36,Female,United States of America,Nebraska,false,true,true,Sometimes,100-500,true,Yes,No,No,No,I don't know,Somewhat difficult,Physical health,No
+39,Female,United States of America,Nebraska,false,true,true,Rarely,26-100,true,Yes,Yes,No,I don't know,Yes,Somewhat easy,Physical health,Maybe
+35,Male,United States of America,Wisconsin,true,true,true,Rarely,,,,,,,,,,
+49,,United Kingdom,,false,false,false,Never,26-100,true,Yes,No,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+45,Male,United Kingdom,,false,,true,Sometimes,25-Jun,true,I don't know,,No,I don't know,I don't know,Somewhat easy,Same level of comfort for each,Yes
+40,Male,United Kingdom,,false,false,true,Not applicable to me,100-500,true,Yes,Yes,No,I don't know,Yes,Very easy,Same level of comfort for each,Yes
+37,Male,Netherlands,,true,false,false,Not applicable to me,,,,,,,,,,
+31,Male,United States of America,Connecticut,false,true,true,Not applicable to me,More than 1000,true,I don't know,No,No,No,Yes,Somewhat easy,Physical health,Yes
+37,Male,United States of America,Georgia,false,true,true,Rarely,500-1000,true,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,Same level of comfort for each,Yes
+26,Female,United States of America,Pennsylvania,false,false,true,Sometimes,100-500,true,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,Physical health,No
+43,Male,Canada,,false,false,false,Rarely,100-500,false,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Physical health,Maybe
+35,Male,United States of America,North Carolina,false,true,true,Sometimes,100-500,true,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Same level of comfort for each,Yes
+31,Male,Turkey,,true,true,false,Not applicable to me,,,,,,,,,,
+32,Female,United States of America,New York,false,true,false,Not applicable to me,100-500,true,Yes,No,Yes,I don't know,Yes,Very easy,Same level of comfort for each,Yes
+37,Male,United States of America,Wisconsin,false,,true,Sometimes,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,I don't know,Physical health,Maybe
+41,Male,United States of America,Tennessee,false,,false,Not applicable to me,25-Jun,true,I don't know,No,No,No,I don't know,Somewhat easy,Physical health,Maybe
+40,Female,United States of America,New York,false,true,true,Rarely,100-500,true,Yes,Yes,Yes,Yes,I don't know,I don't know,Physical health,Yes
+37,Male,United States of America,New York,false,,true,Sometimes,500-1000,true,I don't know,No,No,No,Yes,Neither easy nor difficult,Same level of comfort for each,Yes
+53,Male,United States of America,Oregon,false,true,true,Sometimes,100-500,true,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Physical health,Maybe
+29,Male,United States of America,Tennessee,false,true,true,Sometimes,25-Jun,true,I don't know,No,No,No,I don't know,Very easy,Physical health,No
+37,Male,United States of America,New York,false,true,true,Rarely,500-1000,true,I don't know,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Yes
+45,Female,United States of America,Wisconsin,false,true,true,Rarely,100-500,false,I don't know,No,No,I don't know,I don't know,Somewhat easy,Physical health,No
+26,Male,Netherlands,,false,false,false,Not applicable to me,25-Jun,true,I don't know,No,No,I don't know,I don't know,Very easy,Same level of comfort for each,Yes
+28,Male,United States of America,Colorado,false,true,true,Rarely,100-500,true,Yes,Yes,Yes,Yes,I don't know,Very easy,Physical health,Yes
+24,Female,United States of America,Massachusetts,false,,true,Sometimes,100-500,true,Yes,Yes,Yes,No,I don't know,I don't know,Physical health,Yes
+27,Male,United States of America,Tennessee,false,true,false,Not applicable to me,100-500,true,Yes,Yes,No,I don't know,I don't know,Very easy,Physical health,Maybe
+42,Male,United States of America,Florida,false,false,true,Rarely,100-500,false,Yes,No,No,I don't know,I don't know,Somewhat easy,Same level of comfort for each,Yes
+53,Female,United States of America,Minnesota,true,false,false,Not applicable to me,,,,,,,,,,
+34,Male,United Kingdom,,false,false,false,Not applicable to me,100-500,false,Not eligible for coverage,,Yes,No,I don't know,Very easy,Physical health,Yes
+23,Non-binary,United Kingdom,,false,,true,Sometimes,500-1000,false,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Physical health,Yes
+34,Male,United States of America,Tennessee,false,,false,Not applicable to me,More than 1000,false,I don't know,No,No,I don't know,I don't know,Somewhat easy,Same level of comfort for each,Maybe
+27,Male,United States of America,Tennessee,false,true,false,Sometimes,25-Jun,true,I don't know,No,No,No,Yes,Very easy,Same level of comfort for each,Yes
+31,Male,United States of America,New York,false,,true,Not applicable to me,100-500,true,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Physical health,No
+30,Male,Belgium,,true,false,false,Not applicable to me,,,,,,,,,,
+58,Male,United States of America,Illinois,true,false,true,Sometimes,,,,,,,,,,
+50,Male,United States of America,Tennessee,false,false,false,Not applicable to me,More than 1000,false,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Physical health,Yes
+41,Male,United States of America,California,false,true,true,Never,100-500,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,Yes
+40,Male,Croatia,,false,false,false,Sometimes,26-100,true,I don't know,No,No,No,I don't know,Neither easy nor difficult,Same level of comfort for each,No
+28,Male,Belgium,,true,,true,Sometimes,,,,,,,,,,
+49,Male,United Kingdom,,false,false,false,Not applicable to me,5-Jan,true,Yes,Yes,No,Yes,Yes,Somewhat difficult,Physical health,Maybe
+37,Male,United States of America,New York,false,true,true,Sometimes,More than 1000,false,I don't know,No,No,I don't know,I don't know,Very easy,Same level of comfort for each,Yes
+36,Male,United States of America,Illinois,true,,true,Sometimes,,,,,,,,,,
+52,Male,United States of America,Tennessee,false,false,true,Rarely,25-Jun,false,Yes,Yes,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+33,,Canada,,false,,false,Not applicable to me,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Very easy,Physical health,Yes
+54,Female,Canada,,true,,false,Not applicable to me,,,,,,,,,,
+38,Male,United Kingdom,,true,false,false,Not applicable to me,,,,,,,,,,
+64,Male,United Kingdom,,true,false,true,Often,,,,,,,,,,
+40,Male,United Kingdom,,true,false,true,Not applicable to me,,,,,,,,,,
+37,Male,United States of America,Michigan,false,,false,Often,26-100,true,Yes,Yes,No,I don't know,I don't know,I don't know,Physical health,No
+53,Female,United States of America,Wyoming,false,false,true,Rarely,More than 1000,false,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Same level of comfort for each,Yes
+55,Male,United Kingdom,,false,,false,Not applicable to me,25-Jun,true,No,,No,No,I don't know,Somewhat easy,Same level of comfort for each,Maybe
+30,Male,United States of America,Utah,false,true,true,Often,25-Jun,true,I don't know,Yes,Yes,No,Yes,Somewhat difficult,Physical health,Maybe
+35,Male,United States of America,California,false,true,true,Rarely,500-1000,false,Yes,No,No,No,I don't know,Somewhat easy,Physical health,No
+60,Male,Canada,,false,true,false,Rarely,More than 1000,false,Yes,Yes,I don't know,I don't know,Yes,Somewhat difficult,Physical health,Maybe
+34,Female,United States of America,Colorado,false,false,false,Not applicable to me,100-500,false,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Physical health,Maybe
+35,Male,United States of America,Colorado,false,true,true,Rarely,More than 1000,false,No,No,No,No,I don't know,Difficult,Physical health,No
+34,Male,United States of America,Tennessee,false,true,true,Not applicable to me,More than 1000,false,Yes,No,No,No,I don't know,Somewhat difficult,Physical health,No
+28,Male,United States of America,Colorado,false,true,false,Not applicable to me,26-100,true,I don't know,No,No,No,Yes,Very easy,Physical health,Yes
+28,Female,United States of America,Colorado,false,true,true,Often,26-100,true,I don't know,No,No,No,I don't know,Neither easy nor difficult,Physical health,Maybe
+36,,United Kingdom,,false,false,false,Not applicable to me,26-100,true,I don't know,Yes,No,No,Yes,Somewhat difficult,Same level of comfort for each,Maybe
+24,Male,Ghana,,false,,false,Not applicable to me,25-Jun,true,No,No,No,No,No,Somewhat difficult,Same level of comfort for each,Yes
+50,Male,United States of America,Colorado,true,,false,Not applicable to me,,,,,,,,,,
+55,Male,United States of America,Colorado,false,,true,Sometimes,More than 1000,true,Yes,No,No,Yes,I don't know,I don't know,Physical health,No
+32,Male,Norway,,false,false,true,Sometimes,26-100,true,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,Same level of comfort for each,Yes
+33,Male,United States of America,California,false,,true,Sometimes,500-1000,true,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Same level of comfort for each,Yes
+30,Female,Portugal,,false,true,true,Sometimes,500-1000,true,Yes,Yes,No,No,I don't know,I don't know,Physical health,Maybe
+30,Male,Portugal,,false,true,false,Never,500-1000,true,Yes,No,No,I don't know,Yes,Very easy,Same level of comfort for each,Yes
+34,Male,Portugal,,false,,false,Not applicable to me,100-500,true,Yes,Yes,Yes,No,I don't know,I don't know,Physical health,Maybe
+36,Female,Portugal,,false,true,true,Not applicable to me,100-500,true,No,No,No,No,I don't know,Very easy,Physical health,Yes
+30,Male,Portugal,,false,true,true,Rarely,100-500,true,No,,No,No,I don't know,Somewhat easy,Physical health,Maybe
+29,Male,Portugal,,false,false,false,Not applicable to me,5-Jan,true,No,,Yes,No,No,I don't know,Physical health,No
+34,Male,Portugal,,false,true,true,Not applicable to me,500-1000,true,No,No,No,No,No,Somewhat easy,Physical health,Yes
+40,Male,Portugal,,false,false,true,Not applicable to me,100-500,true,No,Yes,No,No,No,Very easy,Same level of comfort for each,Yes
+31,Non-binary,Portugal,,false,,false,Rarely,500-1000,true,Not eligible for coverage,,No,No,I don't know,I don't know,Physical health,No
+27,Male,Portugal,,false,true,false,Not applicable to me,100-500,true,I don't know,No,No,I don't know,Yes,I don't know,Physical health,Maybe
+47,Male,United States of America,Alabama,false,true,false,Not applicable to me,More than 1000,false,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Same level of comfort for each,Yes
+24,Female,United States of America,Colorado,false,true,true,Rarely,100-500,false,Yes,Yes,No,Yes,Yes,Difficult,Physical health,Maybe
+36,Male,Portugal,,false,false,true,Not applicable to me,100-500,true,Yes,Yes,No,No,Yes,Somewhat easy,Physical health,Yes
+28,Male,Portugal,,false,,false,Not applicable to me,100-500,true,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Physical health,Maybe
+34,Male,United Kingdom,,false,false,false,Not applicable to me,500-1000,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,Maybe
+28,Male,Portugal,,false,false,false,Not applicable to me,100-500,true,I don't know,No,No,No,I don't know,Somewhat easy,Physical health,Yes
+36,Male,Portugal,,false,true,true,Not applicable to me,500-1000,true,Yes,Yes,No,No,I don't know,I don't know,Physical health,No
+24,Male,Portugal,,false,,false,Not applicable to me,100-500,true,Yes,Yes,I don't know,No,Yes,Somewhat easy,Physical health,Yes
+32,Cishet male,United States of America,Colorado,false,true,true,Rarely,25-Jun,true,Yes,Yes,No,No,Yes,I don't know,Physical health,Maybe
+33,Male,United Kingdom,,false,,true,Sometimes,26-100,false,No,No,Yes,No,Yes,Very easy,Physical health,Maybe
+39,Male,United States of America,California,false,,true,Not applicable to me,100-500,true,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Physical health,Maybe
+26,Female,United States of America,Colorado,false,,true,Rarely,More than 1000,false,Yes,Yes,No,Yes,I don't know,I don't know,Physical health,No
+32,Female,United States of America,Michigan,false,true,true,Sometimes,100-500,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,Maybe
+42,Male,United Kingdom,,false,,true,Rarely,26-100,true,Yes,No,Yes,Yes,Yes,Somewhat easy,Same level of comfort for each,Yes
+41,Male,United States of America,Indiana,false,,false,Never,More than 1000,true,Yes,Yes,No,Yes,I don't know,I don't know,Physical health,No
+32,Male,Canada,,false,true,true,Sometimes,100-500,true,Yes,Yes,Yes,No,I don't know,Somewhat difficult,Same level of comfort for each,No
+32,Female,United States of America,North Carolina,false,true,true,Sometimes,More than 1000,false,No,Yes,No,Yes,I don't know,I don't know,Physical health,No
+31,Female,United States of America,California,false,true,true,Sometimes,100-500,true,Yes,No,I don't know,Yes,I don't know,Very easy,Same level of comfort for each,Yes
+34,Non-binary,Switzerland,,false,true,true,Rarely,100-500,true,Not eligible for coverage,,No,No,I don't know,Somewhat easy,Physical health,Maybe
+36,None,United Kingdom,,false,true,false,Not applicable to me,More than 1000,true,Yes,No,Yes,Yes,I don't know,Difficult,Physical health,No
+33,Male,Switzerland,,false,false,false,Not applicable to me,100-500,true,I don't know,No,Yes,I don't know,Yes,Very easy,Physical health,Yes
+30,Male,United States of America,Tennessee,false,true,true,Never,26-100,true,I don't know,No,No,I don't know,Yes,Somewhat easy,Physical health,Maybe
+45,Female,United States of America,Vermont,false,true,true,Sometimes,26-100,true,I don't know,Yes,No,No,I don't know,Difficult,Physical health,Maybe
+30,Male,United States of America,Minnesota,false,false,false,Not applicable to me,More than 1000,true,Yes,No,Yes,Yes,I don't know,Very easy,Same level of comfort for each,Yes
+48,Male,United Kingdom,,true,true,true,Sometimes,,,,,,,,,,
+29,Male,Portugal,,false,,false,Often,100-500,true,Yes,No,No,No,I don't know,Somewhat difficult,Physical health,No
+35,Female,Canada,,true,,true,Rarely,,,,,,,,,,
+41,Male,United States of America,Indiana,false,,true,Sometimes,100-500,true,I don't know,No,No,I don't know,I don't know,I don't know,Physical health,No
+27,Female,United States of America,Indiana,false,true,false,Not applicable to me,26-100,false,Yes,Yes,No,No,Yes,Neither easy nor difficult,Same level of comfort for each,Maybe
+42,Male,United States of America,Nebraska,false,,true,Sometimes,25-Jun,true,Yes,Yes,No,Yes,Yes,Very easy,Same level of comfort for each,Yes
+32,Male,United States of America,Kansas,false,true,true,Not applicable to me,100-500,true,I don't know,No,No,No,I don't know,I don't know,Physical health,Yes
+32,Male,United States of America,Nebraska,false,false,false,Not applicable to me,100-500,true,I don't know,No,I don't know,I don't know,I don't know,Very easy,Physical health,Yes
+20,Female,United States of America,Nebraska,false,true,true,Rarely,5-Jan,true,Yes,Yes,No,No,Yes,Very easy,Same level of comfort for each,No
+24,Female,United States of America,Georgia,true,true,true,Sometimes,,,,,,,,,,
+,Male,United States of America,Nebraska,false,false,false,Not applicable to me,500-1000,false,I don't know,No,Yes,I don't know,I don't know,Very easy,Same level of comfort for each,Yes
+38,Male,United States of America,Nebraska,false,false,false,Not applicable to me,26-100,true,I don't know,No,No,No,I don't know,Very easy,Physical health,Yes
+31,Male,United States of America,Nebraska,false,,true,Rarely,25-Jun,true,I don't know,Yes,No,No,I don't know,Neither easy nor difficult,Physical health,Maybe
+26,Male,United States of America,Alaska,false,true,true,Rarely,26-100,true,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Mental health,No
+40,Male,United States of America,Missouri,false,true,true,Sometimes,26-100,true,Yes,No,No,No,Yes,Somewhat easy,Physical health,Yes
+30,Male,United States of America,Nebraska,false,true,true,Sometimes,25-Jun,false,Yes,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Maybe
+38,Male,United States of America,Nebraska,false,false,true,Not applicable to me,26-100,false,Yes,Yes,No,I don't know,I don't know,Very easy,Physical health,Maybe
+28,Male,United States of America,Virginia,false,false,true,Not applicable to me,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Same level of comfort for each,Yes
+28,Female,Pakistan,,false,false,false,Rarely,More than 1000,false,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat difficult,Physical health,No
+30,Male,United States of America,Washington,false,true,true,Rarely,More than 1000,true,Yes,No,No,Yes,I don't know,I don't know,Physical health,No
+23,Non-binary,United States of America,Minnesota,false,true,true,Rarely,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Same level of comfort for each,Yes
+30,Male,United States of America,Georgia,false,,false,Sometimes,More than 1000,true,I don't know,No,No,No,I don't know,I don't know,Same level of comfort for each,Yes
+33,Female,United States of America,Oregon,false,true,true,Sometimes,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Same level of comfort for each,Yes
+53,Female,United States of America,Washington,false,true,true,Not applicable to me,500-1000,false,Yes,Yes,No,No,Yes,Somewhat difficult,Same level of comfort for each,No
+38,Male,United States of America,Washington,false,,true,Sometimes,More than 1000,false,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,Physical health,Maybe
+34,Male,Poland,,false,false,false,Not applicable to me,26-100,true,No,,No,No,I don't know,Somewhat easy,Same level of comfort for each,Maybe
+40,Male,United States of America,Kansas,false,,false,Not applicable to me,More than 1000,false,I don't know,No,No,I don't know,I don't know,Somewhat easy,Physical health,Yes
+42,Male,United States of America,Florida,false,true,false,Not applicable to me,More than 1000,true,Yes,No,No,I don't know,I don't know,I don't know,Physical health,Yes
+42,Male,United States of America,Illinois,false,,true,Rarely,25-Jun,true,Yes,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Yes
+38,Male,Canada,,false,,true,Sometimes,26-100,false,Yes,Yes,No,Yes,I don't know,I don't know,Physical health,Maybe
+33,Agender,United States of America,Washington,false,true,true,Rarely,More than 1000,false,Yes,Yes,No,Yes,Yes,Somewhat easy,Physical health,Maybe
+35,Male,United States of America,Ohio,false,true,true,Sometimes,100-500,true,Yes,Yes,I don't know,I don't know,Yes,I don't know,Physical health,Maybe
+27,Female,Spain,,false,,false,Not applicable to me,100-500,true,No,,No,No,I don't know,Somewhat easy,Physical health,No
+28,Female,Turkey,,false,false,false,Not applicable to me,More than 1000,false,Not eligible for coverage / NA,Yes,Yes,No,I don't know,Somewhat easy,Same level of comfort for each,Yes
+42,Male,India,,false,false,true,Never,More than 1000,true,No,No,No,No,No,Somewhat easy,Mental health,No
+35,Female,Brazil,,false,,false,Not applicable to me,More than 1000,true,I don't know,,No,No,I don't know,I don't know,Same level of comfort for each,Maybe
+40,Male,United States of America,Tennessee,false,false,true,Rarely,More than 1000,false,Yes,Yes,No,Yes,Yes,Somewhat difficult,Physical health,No
+54,Female,United States of America,Illinois,false,true,true,Sometimes,100-500,false,Yes,Yes,Yes,No,I don't know,Somewhat difficult,Physical health,No
+37,Male,United States of America,Ohio,false,true,true,Not applicable to me,100-500,true,Yes,No,No,No,I don't know,Very easy,Same level of comfort for each,Yes
+26,Female,United States of America,New York,false,,true,Rarely,More than 1000,false,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,Physical health,No
+37,Male,Brazil,,false,,false,Not applicable to me,100-500,false,I don't know,No,No,No,I don't know,I don't know,Physical health,No
+49,Female,United States of America,Ohio,false,,true,Often,More than 1000,false,Yes,Yes,No,No,I don't know,Somewhat easy,Physical health,No
+23,Male,United States of America,New Jersey,false,false,false,Not applicable to me,More than 1000,false,I don't know,No,Yes,Yes,Yes,Somewhat easy,Physical health,Maybe
+42,Female,United Kingdom,,false,,true,Sometimes,100-500,true,Yes,No,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+49,Male,Netherlands,,false,false,false,Sometimes,More than 1000,true,Yes,No,Yes,Yes,Yes,Difficult,Physical health,No
+38,Male,Poland,,true,false,false,Rarely,,,,,,,,,,
+41,Female,United Kingdom,,false,true,false,Not applicable to me,100-500,true,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,Physical health,No
+33,Male,United Kingdom,,false,false,true,Not applicable to me,100-500,true,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Physical health,Yes
+27,Male,United States of America,Pennsylvania,false,true,true,Rarely,26-100,true,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Same level of comfort for each,Yes
+47,Male,United Kingdom,,false,false,false,Not applicable to me,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,No
+28,Male,United States of America,Pennsylvania,false,true,true,Sometimes,100-500,true,I don't know,No,Yes,No,Yes,Somewhat difficult,Physical health,Maybe
+49,Female,Canada,,false,true,true,Often,More than 1000,true,Yes,Yes,No,No,I don't know,Somewhat difficult,Physical health,Maybe
+23,Male,United Kingdom,,false,,true,Rarely,More than 1000,false,I don't know,No,No,No,Yes,Somewhat difficult,Physical health,No
+23,Questioning,United States of America,Ohio,false,,true,Sometimes,More than 1000,false,Yes,Yes,Yes,I don't know,Yes,I don't know,Physical health,Maybe
+38,Male,United States of America,Illinois,true,true,true,Sometimes,,,,,,,,,,
+45,Male,United States of America,Colorado,false,true,true,Rarely,5-Jan,true,No,,I don't know,No,Yes,Very easy,Same level of comfort for each,Yes
+35,Male,United States of America,North Carolina,true,true,true,Often,,,,,,,,,,
+51,Male,Austria,,true,true,true,Sometimes,,,,,,,,,,
+34,Female,United States of America,California,true,true,false,Not applicable to me,,,,,,,,,,
+29,Male,United States of America,California,false,true,true,Sometimes,26-100,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,Yes
+40,Male,United States of America,California,false,,false,Not applicable to me,26-100,true,I don't know,No,No,I don't know,I don't know,Somewhat easy,Physical health,Maybe
+38,Male,Germany,,true,false,false,Sometimes,,,,,,,,,,
+32,Male,United States of America,Maryland,false,true,true,Sometimes,26-100,true,Yes,No,No,No,I don't know,I don't know,Physical health,No
+22,Female,United States of America,California,false,true,true,Sometimes,More than 1000,true,Yes,Yes,Yes,I don't know,I don't know,Difficult,Physical health,Yes
+28,Male,United States of America,California,false,true,true,Sometimes,5-Jan,true,Yes,Yes,Yes,I don't know,Yes,Very easy,Same level of comfort for each,Yes
+29,Female,United States of America,Maryland,false,,true,Sometimes,More than 1000,true,I don't know,No,Yes,I don't know,I don't know,I don't know,Physical health,No
+32,Female,United States of America,Illinois,true,false,false,Not applicable to me,,,,,,,,,,
+38,Female,United States of America,Illinois,false,true,true,Sometimes,100-500,true,Yes,No,No,I don't know,I don't know,I don't know,Physical health,Maybe
+30,Male,United States of America,Illinois,false,false,false,Not applicable to me,26-100,true,I don't know,No,No,I don't know,I don't know,Very easy,Physical health,No
+37,Female,United States of America,District of Columbia,false,true,true,Rarely,More than 1000,false,Yes,Yes,I don't know,Yes,I don't know,Neither easy nor difficult,Physical health,No
+38,Female,United States of America,Texas,false,true,true,Rarely,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,Difficult,Physical health,Maybe
+51,Female,United States of America,Florida,false,true,true,Rarely,100-500,true,Yes,Yes,Yes,Yes,I don't know,Difficult,Same level of comfort for each,Maybe
+39,Male,United States of America,Virginia,false,true,true,Sometimes,More than 1000,false,Yes,Yes,Yes,Yes,Yes,Very easy,Physical health,Maybe
+22,Male,United States of America,Virginia,false,false,false,Not applicable to me,More than 1000,false,Yes,No,I don't know,I don't know,I don't know,I don't know,Physical health,Yes
+26,Male,United States of America,Virginia,false,true,true,Rarely,More than 1000,true,Yes,Yes,I don't know,Yes,Yes,Very easy,Same level of comfort for each,No
+42,Male,United States of America,Oklahoma,false,true,false,Sometimes,100-500,false,I don't know,No,No,No,No,Somewhat easy,Physical health,No
+49,Male,United Kingdom,,false,false,true,Often,100-500,false,Not eligible for coverage / NA,No,Yes,No,I don't know,I don't know,Physical health,No
+48,Male,United Kingdom,,false,true,false,Not applicable to me,More than 1000,true,Yes,No,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+25,Male,Germany,,false,true,true,Often,More than 1000,false,Yes,Yes,Yes,Yes,Yes,Very easy,Physical health,Maybe
+31,Male,Israel,,false,,true,Sometimes,25-Jun,true,Not eligible for coverage,,No,No,I don't know,Very easy,Physical health,Maybe
+63,Male,United States of America,Georgia,false,false,false,Not applicable to me,5-Jan,true,Yes,No,No,Yes,Yes,Neither easy nor difficult,Physical health,Maybe
+30,Female,Turkey,,false,false,false,Not applicable to me,More than 1000,true,No,No,No,No,I don't know,Difficult,Physical health,No
+34,Male,Switzerland,,false,,true,Not applicable to me,100-500,true,I don't know,No,No,I don't know,I don't know,Very easy,Physical health,Maybe
+41,Male,Netherlands,,false,true,true,Not applicable to me,100-500,true,No,,No,No,I don't know,Somewhat easy,Same level of comfort for each,Maybe
+31,Male,Norway,,false,true,true,Rarely,More than 1000,false,No,No,No,Yes,No,Very easy,Physical health,Yes
+29,Female,Norway,,false,true,false,Not applicable to me,More than 1000,false,I don't know,No,No,I don't know,I don't know,Very easy,Physical health,Yes
+29,Male,United States of America,Maryland,false,true,true,Sometimes,More than 1000,false,Yes,No,No,Yes,I don't know,Somewhat easy,Physical health,No
+44,,United States of America,Alabama,true,true,true,Sometimes,,,,,,,,,,
+32,Male,United States of America,New York,false,false,false,Not applicable to me,More than 1000,true,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Physical health,Maybe
+28,Male,Norway,,false,true,true,Not applicable to me,More than 1000,false,I don't know,No,No,No,I don't know,Very easy,Physical health,Maybe
+36,Male,United States of America,Iowa,false,,false,Rarely,More than 1000,false,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Physical health,Maybe
+28,Female,United States of America,New York,false,true,true,Not applicable to me,More than 1000,true,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Physical health,No
+30,Female,United States of America,Illinois,true,true,true,Rarely,,,,,,,,,,
+36,Male,United States of America,New York,false,false,false,Not applicable to me,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Very easy,Same level of comfort for each,Yes
+40,Male,United States of America,Kansas,false,true,true,Sometimes,25-Jun,true,Yes,No,No,No,I don't know,Somewhat difficult,Same level of comfort for each,Maybe
+27,Male,United States of America,Illinois,false,false,false,Not applicable to me,100-500,true,I don't know,No,No,No,I don't know,Somewhat easy,Physical health,Yes
+28,Female,Norway,,false,true,true,Sometimes,More than 1000,false,Yes,No,No,I don't know,I don't know,Very easy,Physical health,Yes
+34,Male,United States of America,Nebraska,false,true,true,Rarely,More than 1000,true,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Physical health,Yes
+34,Male,United States of America,Texas,false,,true,Sometimes,25-Jun,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Same level of comfort for each,Yes
+34,Female,United States of America,Minnesota,true,true,true,Sometimes,,,,,,,,,,
+27,Female,United States of America,Georgia,false,true,true,Sometimes,100-500,true,Yes,Yes,No,Yes,I don't know,I don't know,Physical health,Maybe
+44,Female,United States of America,Maryland,false,true,true,Sometimes,More than 1000,true,Yes,Yes,No,No,Yes,Neither easy nor difficult,Same level of comfort for each,Maybe
+36,Male,Mexico,,false,,true,Rarely,100-500,false,No,No,No,No,I don't know,Neither easy nor difficult,Physical health,No
+31,Female,United States of America,Minnesota,false,true,true,Rarely,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Very easy,Same level of comfort for each,Yes
+26,Female,United States of America,Michigan,false,false,true,Sometimes,100-500,true,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Same level of comfort for each,Yes
+39,Male,United States of America,Massachusetts,false,false,false,Not applicable to me,25-Jun,true,Yes,Yes,No,I don't know,Yes,Very easy,Same level of comfort for each,Yes
+36,Female,United States of America,New York,false,true,true,Sometimes,More than 1000,false,Yes,Yes,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+25,Female,United States of America,Michigan,false,true,true,Often,25-Jun,true,Not eligible for coverage / NA,Yes,No,No,Yes,Somewhat easy,Physical health,Maybe
+47,Male,Switzerland,,false,,true,Sometimes,More than 1000,false,No,No,No,No,I don't know,Very easy,Physical health,No
+38,Male,United Kingdom,,false,,true,Rarely,More than 1000,false,Yes,No,Yes,Yes,I don't know,Somewhat easy,Same level of comfort for each,Yes
+33,Male,Canada,,false,false,false,Not applicable to me,26-100,true,I don't know,,Yes,No,I don't know,Very easy,Same level of comfort for each,Maybe
+59,Female,United Kingdom,,true,,true,Not applicable to me,,,,,,,,,,
+39,Male,United States of America,Nebraska,false,true,true,Rarely,100-500,true,Yes,Yes,Yes,No,Yes,Very easy,Physical health,Yes
+19,Female,United States of America,Nebraska,false,,true,Rarely,100-500,true,Not eligible for coverage,,Yes,I don't know,Yes,I don't know,Physical health,Maybe
+35,Male,United States of America,Kansas,false,true,true,Sometimes,25-Jun,false,Not eligible for coverage,,No,No,I don't know,Neither easy nor difficult,Physical health,No
+38,Male,United States of America,Tennessee,false,true,true,Sometimes,26-100,true,Yes,Yes,No,No,I don't know,Somewhat difficult,Physical health,No
+23,Female,Italy,,false,false,false,Not applicable to me,100-500,true,I don't know,Yes,I don't know,Yes,I don't know,Somewhat easy,Physical health,No
+32,Male,United States of America,Massachusetts,false,true,true,Sometimes,More than 1000,false,Yes,Yes,No,Yes,Yes,Difficult,Physical health,Yes
+39,Male,United States of America,Maine,true,true,true,Rarely,,,,,,,,,,
+33,Male,United States of America,Tennessee,false,false,false,Not applicable to me,More than 1000,false,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Physical health,Maybe
+38,Female,New Zealand,,false,false,true,Often,500-1000,true,I don't know,No,No,No,Yes,Somewhat easy,Physical health,Yes
+42,Male,United States of America,Arizona,false,false,true,Sometimes,26-100,true,Yes,No,No,I don't know,I don't know,Very easy,Same level of comfort for each,Maybe
+39,Female,United States of America,Oregon,false,false,false,Not applicable to me,500-1000,true,I don't know,Yes,No,No,I don't know,Difficult,Physical health,No
+30,Male,Spain,,false,false,false,Not applicable to me,More than 1000,true,Not eligible for coverage / NA,No,No,No,I don't know,Very easy,Same level of comfort for each,Yes
+39,Male,Germany,,false,,false,Not applicable to me,100-500,true,No,No,I don't know,I don't know,I don't know,Very easy,Same level of comfort for each,Yes
+50,Male,Italy,,false,true,true,Often,500-1000,true,I don't know,No,No,No,I don't know,Very easy,Physical health,Maybe
+43,,Portugal,,false,false,false,Not applicable to me,100-500,false,I don't know,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Maybe
+59,Female,United States of America,California,true,false,true,Rarely,,,,,,,,,,
+53,Male,United States of America,New Jersey,false,true,true,Sometimes,More than 1000,false,Yes,Yes,Yes,Yes,Yes,I don't know,Physical health,Maybe
+35,Male,United States of America,New York,false,,false,Not applicable to me,25-Jun,true,Yes,No,Yes,I don't know,I don't know,Very easy,Physical health,Yes
+27,Female,Canada,,false,true,true,Not applicable to me,25-Jun,true,Yes,Yes,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+24,Female,Canada,,false,true,false,Sometimes,25-Jun,true,Yes,No,No,No,No,Somewhat easy,Physical health,No
+29,Male,United States of America,Ohio,false,true,true,Sometimes,25-Jun,true,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Same level of comfort for each,Yes
+40,Female,Ireland,,false,true,true,Sometimes,More than 1000,true,Yes,Yes,No,No,I don't know,I don't know,Physical health,Yes
+27,Male,France,,false,false,false,Not applicable to me,100-500,true,Not eligible for coverage,,No,No,I don't know,I don't know,Physical health,Maybe
+46,Male,Canada,,true,true,true,Not applicable to me,,,,,,,,,,
+39,Male,Canada,,false,false,false,Sometimes,100-500,true,No,No,No,No,No,Difficult,Physical health,No
+19,Male,Algeria,,true,,false,Not applicable to me,,,,,,,,,,
+28,Male,Hong Kong,,false,false,false,Not applicable to me,500-1000,true,No,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,No
+30,Male,United States of America,North Carolina,false,true,false,Not applicable to me,More than 1000,false,I don't know,No,Yes,Yes,Yes,Somewhat easy,Physical health,Maybe
+29,Female,United States of America,California,false,,true,Sometimes,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,I don't know,Same level of comfort for each,Maybe
+24,Male,United States of America,Virginia,false,,false,Not applicable to me,More than 1000,false,I don't know,No,No,No,I don't know,Somewhat difficult,Physical health,Maybe
+25,Female,United States of America,Washington,false,true,true,Sometimes,More than 1000,true,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Yes
+45,Male,United Kingdom,,false,,true,Not applicable to me,500-1000,false,I don't know,No,Yes,I don't know,I don't know,I don't know,Physical health,Maybe
+37,Male,United States of America,California,false,false,true,Not applicable to me,More than 1000,true,Yes,Yes,Yes,Yes,Yes,I don't know,Physical health,Maybe
+22,Male,United States of America,Maine,false,true,false,Not applicable to me,25-Jun,true,I don't know,No,No,No,I don't know,Very easy,Same level of comfort for each,Maybe
+35,Female,United States of America,Oregon,false,true,true,Sometimes,500-1000,true,Yes,Yes,Yes,Yes,I don't know,Very easy,Same level of comfort for each,Yes
+50,Male,United States of America,Nebraska,false,true,true,Sometimes,More than 1000,false,I don't know,No,I don't know,I don't know,I don't know,I don't know,Physical health,Maybe
+45,Male,United States of America,Washington,false,,true,Sometimes,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,Maybe
+49,Male,United Kingdom,,false,,true,Sometimes,100-500,false,Not eligible for coverage,,Yes,I don't know,I don't know,I don't know,Physical health,Yes
+40,Male,United Kingdom,,false,false,false,Not applicable to me,100-500,false,No,No,No,No,I don't know,Difficult,Same level of comfort for each,Maybe
+32,Male,Spain,,true,true,false,Often,,,,,,,,,,
+38,Female,Pakistan,,false,false,false,Not applicable to me,500-1000,true,Yes,No,Yes,Yes,Yes,Very easy,Same level of comfort for each,Yes
+37,Male,United States of America,South Carolina,false,true,false,Rarely,More than 1000,false,Yes,Yes,Yes,Yes,Yes,I don't know,Same level of comfort for each,Yes
+28,Female,United States of America,Oregon,false,false,false,Not applicable to me,100-500,true,I don't know,No,Yes,I don't know,I don't know,Neither easy nor difficult,Physical health,Maybe
+25,Male,United States of America,California,false,false,false,Not applicable to me,More than 1000,true,Yes,No,No,Yes,Yes,Somewhat difficult,Physical health,No
+28,Male,Brazil,,true,true,false,Sometimes,,,,,,,,,,
+38,Male,Brazil,,false,true,false,Often,25-Jun,true,Not eligible for coverage,,No,I don't know,I don't know,I don't know,Physical health,Maybe
+25,Male,India,,false,false,false,Rarely,26-100,true,I don't know,No,Yes,No,I don't know,Somewhat easy,Physical health,No
+49,Male,Canada,,false,,true,Rarely,25-Jun,true,Yes,Yes,No,No,Yes,Very easy,Same level of comfort for each,Yes
+19,Male,Brazil,,false,false,true,Sometimes,More than 1000,false,Yes,No,No,No,I don't know,Neither easy nor difficult,Physical health,No
+43,Male,Brazil,,true,false,true,Not applicable to me,,,,,,,,,,
+31,Male,Brazil,,false,false,true,Sometimes,500-1000,false,Yes,No,Yes,No,No,Difficult,Physical health,No
+30,Male,Brazil,,false,true,true,Sometimes,More than 1000,false,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Physical health,No
+39,Male,Brazil,,false,true,true,Sometimes,More than 1000,false,I don't know,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Yes
+22,Male,Brazil,,false,false,false,Rarely,100-500,false,Not eligible for coverage,,Yes,No,I don't know,Very easy,Physical health,Yes
+29,Male,Brazil,,false,true,true,Sometimes,More than 1000,false,Yes,Yes,No,I don't know,Yes,Difficult,Physical health,No
+30,Male,Brazil,,true,true,false,Sometimes,,,,,,,,,,
+32,Male,Brazil,,false,false,true,Rarely,26-100,true,Yes,Yes,No,No,Yes,Somewhat difficult,Physical health,No
+41,Male,Brazil,,false,true,true,Sometimes,More than 1000,false,No,No,No,No,I don't know,I don't know,Physical health,Maybe
+27,Female,Brazil,,false,false,false,Sometimes,More than 1000,false,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Same level of comfort for each,Maybe
+19,Female,Indonesia,,true,,false,Sometimes,,,,,,,,,,
+27,Male,United States of America,California,false,,true,Rarely,500-1000,true,Yes,Yes,No,I don't know,Yes,Somewhat easy,Same level of comfort for each,Yes
+31,Male,Brazil,,true,,false,Rarely,,,,,,,,,,
+25,Female,South Africa,,true,false,true,Not applicable to me,,,,,,,,,,
+36,Male,India,,false,,true,Often,More than 1000,true,No,No,No,Yes,Yes,Somewhat difficult,Physical health,No
+28,Female,United States of America,Washington,false,true,true,Often,25-Jun,false,No,No,Yes,No,I don't know,Neither easy nor difficult,Same level of comfort for each,No
+27,Female,United States of America,California,false,,true,Sometimes,500-1000,true,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Physical health,No
+47,None,United States of America,Michigan,false,true,true,Rarely,26-100,true,Yes,Yes,No,No,Yes,Very easy,Physical health,Yes
+25,Male,India,,false,,true,Rarely,26-100,true,I don't know,No,No,No,I don't know,I don't know,Physical health,Maybe
+30,Female,United States of America,California,false,false,true,Not applicable to me,100-500,true,I don't know,No,No,No,I don't know,Somewhat easy,Physical health,Yes
+45,Male,United States of America,North Carolina,false,true,true,Rarely,100-500,false,Not eligible for coverage / NA,No,I don't know,I don't know,I don't know,I don't know,Physical health,No
+41,I am a Wookie,Afghanistan,,true,true,false,Not applicable to me,,,,,,,,,,
+24,Female,South Africa,,false,,true,Not applicable to me,25-Jun,true,No,,No,No,No,Neither easy nor difficult,Same level of comfort for each,No
+26,Female,United States of America,Washington,false,,false,Not applicable to me,More than 1000,true,I don't know,No,No,No,Yes,Somewhat easy,Physical health,No
+32,Female,United States of America,Washington,false,true,true,Sometimes,More than 1000,true,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Physical health,No
+43,Female,United States of America,Washington,false,true,true,Sometimes,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,Difficult,Physical health,Maybe
+37,Male,United States of America,Michigan,true,false,false,Not applicable to me,,,,,,,,,,
+51,Male,United States of America,Texas,false,true,true,Rarely,500-1000,false,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Physical health,Yes
+56,Male,United States of America,North Carolina,true,false,false,Not applicable to me,,,,,,,,,,
+30,Male,United States of America,Pennsylvania,false,true,true,Sometimes,500-1000,false,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Physical health,Yes
+48,Trans non-binary/genderfluid,United States of America,Virginia,false,true,false,Not applicable to me,26-100,true,I don't know,No,No,No,I don't know,Somewhat easy,Physical health,No
+28,Female,United States of America,District of Columbia,false,,true,Rarely,100-500,true,Yes,Yes,No,No,I don't know,Somewhat difficult,Physical health,No
+26,Female,United States of America,Virginia,false,false,true,Sometimes,25-Jun,true,No,No,No,No,I don't know,Somewhat easy,Physical health,Maybe
+45,Male,United States of America,Kansas,false,false,false,Not applicable to me,25-Jun,false,No,,No,No,No,Somewhat difficult,Physical health,Yes
+37,Male,Estonia,,false,false,false,Not applicable to me,26-100,true,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Physical health,Maybe
+42,Female,United Kingdom,,false,,true,Often,100-500,true,Yes,No,Yes,Yes,Yes,Very easy,Physical health,Yes
+34,Male,United States of America,Michigan,false,,true,Sometimes,26-100,true,I don't know,No,No,No,I don't know,Somewhat easy,Physical health,No
+35,Female,India,,false,true,true,Rarely,More than 1000,true,I don't know,No,Yes,Yes,I don't know,Difficult,Physical health,No
+28,Male,Mexico,,false,false,true,Often,More than 1000,false,Yes,No,No,No,I don't know,I don't know,Same level of comfort for each,No
+26,Male,India,,false,,true,Sometimes,26-100,true,I don't know,No,No,No,I don't know,Somewhat easy,Same level of comfort for each,Yes
+34,Female,India,,false,false,false,Not applicable to me,100-500,false,I don't know,No,No,No,No,Somewhat easy,Physical health,No
+28,,India,,false,false,false,Rarely,More than 1000,true,I don't know,No,No,No,I don't know,Somewhat difficult,Physical health,No
+34,Female,United States of America,Massachusetts,false,true,true,Not applicable to me,100-500,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,Yes
+45,Male,Ireland,,true,false,false,Not applicable to me,,,,,,,,,,
+59,Female,United Kingdom,,true,,true,Sometimes,,,,,,,,,,
+41,Male,United States of America,Ohio,false,true,true,Often,26-100,true,I don't know,No,No,No,I don't know,Difficult,Physical health,Maybe
+38,,United States of America,Tennessee,false,true,true,Sometimes,More than 1000,false,Yes,No,I don't know,I don't know,Yes,Somewhat easy,Same level of comfort for each,Yes
+42,Female,United States of America,California,false,true,true,Sometimes,More than 1000,true,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Physical health,No
+21,Male,United States of America,Ohio,false,true,true,Rarely,100-500,true,I don't know,,No,I don't know,Yes,Very easy,Same level of comfort for each,Yes
+30,Female,United States of America,Illinois,false,true,false,Not applicable to me,26-100,true,Yes,Yes,Yes,No,Yes,Somewhat difficult,Same level of comfort for each,Yes
+46,Male,United States of America,New York,false,false,true,Rarely,100-500,true,Yes,Yes,Yes,Yes,Yes,I don't know,Same level of comfort for each,Yes
+36,Female,United States of America,New York,true,true,true,Rarely,,,,,,,,,,
+41,Male,India,,false,false,false,Never,More than 1000,true,I don't know,Yes,No,No,Yes,Somewhat difficult,Physical health,Maybe
+33,Female,Portugal,,true,false,true,Sometimes,,,,,,,,,,
+41,Male,Estonia,,false,false,true,Sometimes,5-Jan,true,Yes,No,No,Yes,I don't know,Somewhat difficult,Physical health,Yes
+25,Male,United Kingdom,,false,true,false,Often,More than 1000,false,Yes,Yes,No,Yes,I don't know,Somewhat easy,Physical health,No
+27,Agender,Germany,,false,true,true,Sometimes,25-Jun,true,No,No,Yes,No,No,Somewhat difficult,Physical health,No
+47,Female,United States of America,North Carolina,false,,true,Never,More than 1000,true,I don't know,No,Yes,Yes,I don't know,I don't know,Physical health,No
+24,Male,United States of America,Utah,false,,true,Not applicable to me,26-100,true,Yes,Yes,No,I don't know,Yes,Somewhat easy,Physical health,Yes
+40,Male,United States of America,Utah,false,false,true,Often,More than 1000,true,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Physical health,Maybe
+37,Male,United States of America,Colorado,false,,true,Not applicable to me,100-500,true,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Physical health,No
+38,Male,United States of America,Washington,false,,false,Sometimes,More than 1000,true,I don't know,No,No,Yes,I don't know,Somewhat easy,Physical health,Yes
+47,Male,United States of America,Washington,false,false,true,Rarely,More than 1000,true,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Same level of comfort for each,Yes
+30,Female,United States of America,Washington,false,true,true,Rarely,More than 1000,true,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Same level of comfort for each,Yes
+24,Female,United States of America,Maryland,false,true,true,Often,26-100,false,Not eligible for coverage,,No,No,I don't know,Somewhat difficult,Physical health,No
+38,Female,United States of America,Idaho,false,true,true,Rarely,More than 1000,false,Yes,Yes,No,Yes,Yes,Somewhat difficult,Physical health,Maybe
+42,Male,Canada,,false,true,true,Rarely,25-Jun,true,Yes,Yes,Yes,Yes,I don't know,Very easy,Same level of comfort for each,Yes
+39,Male,Greece,,false,false,false,Not applicable to me,100-500,true,No,No,No,No,I don't know,Very easy,Physical health,No
+42,Male,United States of America,Colorado,false,,true,Rarely,More than 1000,true,I don't know,No,No,I don't know,Yes,I don't know,Physical health,Maybe
+47,Male,United States of America,California,false,true,true,Rarely,More than 1000,false,Yes,Yes,No,I don't know,Yes,Very easy,Physical health,Yes
+29,Male,Poland,,false,false,false,Not applicable to me,More than 1000,true,Yes,Yes,No,No,Yes,I don't know,Physical health,Yes
+55,Male,United States of America,Arizona,false,true,false,Not applicable to me,More than 1000,true,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Physical health,No
+34,Non-binary,United States of America,Louisiana,false,true,true,Rarely,500-1000,true,I don't know,No,I don't know,I don't know,I don't know,Very easy,Same level of comfort for each,Maybe
+45,Male,Japan,,false,false,true,Sometimes,More than 1000,true,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Physical health,Yes
+46,Male,United Kingdom,,false,true,false,Not applicable to me,More than 1000,false,I don't know,,Yes,Yes,Yes,Neither easy nor difficult,Physical health,Maybe
+23,Female,India,,false,,false,Sometimes,More than 1000,false,Yes,No,No,Yes,I don't know,Somewhat difficult,Physical health,No
+22,Female,United States of America,New York,false,true,true,Often,100-500,false,No,No,No,No,No,Somewhat difficult,Physical health,No
+30,Male,New Zealand,,false,true,true,Sometimes,26-100,true,No,,No,No,I don't know,Neither easy nor difficult,Physical health,Maybe
+27,Male,United States of America,Colorado,true,,true,Sometimes,,,,,,,,,,
+42,Female,United States of America,Texas,false,true,true,Often,100-500,true,Yes,No,No,I don't know,I don't know,Somewhat difficult,Physical health,No
+26,Female,Brazil,,false,true,true,Sometimes,26-100,true,Yes,No,No,No,Yes,Very easy,Same level of comfort for each,Yes
+31,Female,United States of America,California,false,false,false,Not applicable to me,25-Jun,true,No,No,No,No,I don't know,Very easy,Physical health,Maybe
+27,Male,India,,false,false,false,Sometimes,More than 1000,false,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Physical health,No
+48,Male,United States of America,Louisiana,true,false,false,Not applicable to me,,,,,,,,,,
+50,Male,India,,true,false,false,Never,,,,,,,,,,
+30,Female,India,,false,false,false,Often,More than 1000,true,No,No,No,No,Yes,Difficult,Physical health,No
+24,Female,United States of America,Oregon,false,true,true,Sometimes,More than 1000,true,Yes,Yes,No,Yes,Yes,Somewhat difficult,Physical health,Maybe
