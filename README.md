@@ -1,4 +1,4 @@
-# Tech Employees and Mental Health Analysis
+# Predicting Employee Use of Mental Health Services
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/tylerhoran/tech_emp_mental_health?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tylerhoran/tech_emp_mental_health)
